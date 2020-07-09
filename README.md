@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Hangul, South Korean language
 - 👯 I’m looking to collaborate on my dreams
 - 🤔 I’m looking for help with learning Hangul
-- 💬 Ask me about ...
+- 💬 Ask me about why Hangul ?! 
 - 📫 How to reach me: my nick at protonmail dot com
 - ⚡ Fun fact: 've been in top 8 on the [Trendings Python page project](https://foxmask.github.io/post/2016/11/26/trigger-happy-two-weeks-after-strong-storm/)  with [TriggerHappy](https://github.com/push-things/django-th)
 
