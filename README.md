@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on some projects: [Nyuseu](https://github.com/foxmask/nyuseu), [Yeoboseyo](https://github.com/foxmask/yeoboseyo), [joplin-web](https://github.com/foxmask/joplin-web) you can check out below
+- 🔭 I’m currently working on some projects: [Nyuseu](https://gitlab.com/annyong/nyuseu), [Yeoboseyo](https://gitlab.com/annyong/yeoboseyo), [joplin-web](https://gitlab.com/annyong/joplin-web) you can check out below
 - 🌱 :kr: 한국어 배우다
 - 🤔 :kr: 한국어를 배우기 위해 도움을 찾고 있습니다
 - 📫 How to reach me: my nick at protonmail dot com 
