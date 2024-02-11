@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - On mastodon: @foxmask@framapiaf.org :fr: or @foxmask@planet.moe :kr:
 - ⚡ Fun fact: age ago ... i've been in top 8 on the [Trendings Python page project](https://foxmask.github.io/post/2016/11/26/trigger-happy-two-weeks-after-strong-storm/) with [TriggerHappy](https://github.com/push-things/django-th)
 
-all projects moved on https://git.afpy.org/foxmask/
-
 **Powered by Free software since '98**
